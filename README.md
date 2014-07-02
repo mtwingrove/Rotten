@@ -17,7 +17,7 @@ cmdlet to search Rotten Tomatoes.
 
 ####Usage
 Searching for a movie:
-`Rotten Speed` returns
+`Rotten Speed`
 <pre>
 Speed (1994)
 ------------
