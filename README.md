@@ -1,7 +1,8 @@
 Rotten
 ======
 
-cmdlet to search Rotten Tomatoes
+cmdlet to search Rotten Tomatoes.
+Requires Newtownsoft JSON.net
 
 ####Returns 
 * Year released
@@ -10,3 +11,7 @@ cmdlet to search Rotten Tomatoes
 * Critics score
 * Critics rating
 * Audience score
+
+
+####TODO
+* Rewrite to not require additional libraries
