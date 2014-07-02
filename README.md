@@ -4,7 +4,7 @@ Rotten
 cmdlet to search Rotten Tomatoes.
 
 ###Requirements
-* Newtownsoft JSON.net  
+* Newtonsoft JSON.net  
 `PM> Install-Package Newtonsoft.Json`
 
 ####Returns 
