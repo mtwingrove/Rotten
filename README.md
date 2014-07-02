@@ -4,9 +4,9 @@ Rotten
 cmdlet to search Rotten Tomatoes.
 
 ###Requirements
-**Requires Newtownsoft JSON.net**
+Newtownsoft JSON.net
 
-Using Nuget 
+Using Nuget:
 
 `PM> Install-Package Newtonsoft.Json`
 
