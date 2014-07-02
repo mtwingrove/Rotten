@@ -19,6 +19,8 @@ cmdlet to search Rotten Tomatoes.
 Searching for a movie:
 `Rotten Speed` returns
 <pre>
+Speed (1994)
+------------
 MPAA Rating: R
 Runtime: 1:55
 Critics Rating: Certified Fresh
