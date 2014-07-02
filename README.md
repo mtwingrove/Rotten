@@ -1,8 +1,9 @@
 Rotten
 ======
-
+###About
 cmdlet to search Rotten Tomatoes.
 
+###Requirements
 **Requires Newtownsoft JSON.net**
 
 Using Nuget 
