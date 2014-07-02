@@ -4,7 +4,7 @@ Rotten
 cmdlet to search Rotten Tomatoes.
 
 ###Requirements
-Newtownsoft JSON.net
+* Newtownsoft JSON.net
 
 Using Nuget:
 
