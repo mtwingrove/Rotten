@@ -90,9 +90,6 @@ namespace Rotten
             {
                 movieData(s);
             }
-            // For Testing
-            //movieData("/asdf");
-            //Console.ReadLine();
         }
       
     }
