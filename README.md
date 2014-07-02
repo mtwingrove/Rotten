@@ -2,7 +2,12 @@ Rotten
 ======
 
 cmdlet to search Rotten Tomatoes.
-Requires Newtownsoft JSON.net
+
+**Requires Newtownsoft JSON.net**
+
+Using Nuget 
+
+`PM> Install-Package Newtonsoft.Json`
 
 ####Returns 
 * Year released
